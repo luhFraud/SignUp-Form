@@ -13,7 +13,7 @@ body{
     display: flex;
 }
 .left-container {
-    background-image: url(./images/jenna-neal-PGhkCuYDlaQ-unsplash.jpg);
+    background-image: url(images/jenna-neal-PGhkCuYDlaQ-unsplash.jpg);
     background-position: center center;
     background-size: cover;
     display: flex;
